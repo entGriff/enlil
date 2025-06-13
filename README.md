@@ -8,9 +8,9 @@
 
 
 A real frame built on the shoulders of FastAPI framework.
-Enlil brings back the beauty of structured, modular design — old-school clarity fused with modern performance.
+Enlil brings back the beauty of structured, modular design - old-school clarity fused with modern performance.
 
-It's made for developers who value well-framed projects: organized apps, reusable services, sharp boundaries, and clean extensibility — all powered by FastAPI and Tortoise ORM.
+It's made for developers who value well-framed projects: organized apps, reusable services, sharp boundaries, and clean extensibility - all powered by FastAPI and Tortoise ORM.
 
 ## Features
 
@@ -123,12 +123,6 @@ Options:
 * `--port`: Port to bind to (default: `8000`)
 
 ## Database Management
-
-### Initial Setup
-
-```bash
-enlil init_db
-```
 
 ### After Model Changes
 
