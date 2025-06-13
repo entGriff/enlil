@@ -26,7 +26,11 @@ It's made for developers who value well-framed projects: organized apps, reusabl
 Install Enlil from PyPI:
 
 ```bash
+# Basic installation
 pip install enlil-framework
+
+# With development tools
+pip install enlil-framework[dev]
 ```
 
 ## Quick Start

@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="enlil-framework",
     version="0.1.0",
-    description="Python framework: solid frame on top of great work - FastAPI",
+    description="A real frame built on the shoulders of FastAPI framework. Enlil brings back the beauty of structured, modular design - old-school clarity fused with modern performance.",
     author="Goga Patarkatsishvili",
     url="https://github.com/entGriff/enlil",
     project_urls={
@@ -15,7 +15,7 @@ setup(
     package_data={
         "enlil": ["scaffolds/**/*"],
     },
-    python_requires=">=3.10",
+    python_requires=">=3.11",
     install_requires=[
         "fastapi>=0.115.12,<0.116.0",
         "click>=8.2.1,<9.0.0",
