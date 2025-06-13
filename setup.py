@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="enlil-framework",
-    version="0.1.0",
+    version="0.1.1",
     description="A real frame built on the shoulders of FastAPI framework. Enlil brings back the beauty of structured, modular design - old-school clarity fused with modern performance.",
     author="Goga Patarkatsishvili",
     url="https://github.com/entGriff/enlil",
