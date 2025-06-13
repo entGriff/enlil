@@ -1,10 +1,16 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="enlil",
+    name="enlil-framework",
     version="0.1.0",
     description="Python framework: solid frame on top of great work - FastAPI",
-    author="Enlil Team",
+    author="Goga Patarkatsishvili",
+    url="https://github.com/entGriff/enlil",
+    project_urls={
+        "Source": "https://github.com/entGriff/enlil",
+        "Bug Reports": "https://github.com/entGriff/enlil/issues",
+        "Documentation": "https://github.com/entGriff/enlil#readme",
+    },
     packages=find_packages(),
     package_data={
         "enlil": ["scaffolds/**/*"],
